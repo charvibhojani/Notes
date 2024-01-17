@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/colorOption1"
+        android:title="Blue"
+        />
+    <item
+        android:id="@+id/colorOption2"
+        android:title="Teal"
+        />
+    <!-- Add more color options as needed -->
+</menu>
